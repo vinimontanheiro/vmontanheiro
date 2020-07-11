@@ -23,105 +23,158 @@ a,b{
   align-items: center;
 }
 .skills > span > i{
-  margin-left:5px;
+margin-left:5px;
   font-size:14px
 }
 </style>
-<div class="profile">
+<div style="display:flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;">
+
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
-  <b class="name">Vinícius Montanheiro</b>&nbsp;✨
+  <b style="padding-left:5px;font-size:22px;">Vinícius Montanheiro</b>&nbsp;✨
 </div>
-<div class=".profile">
+<div style="display:flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
+  <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
   </a>
-  <a href="https://www.npmjs.com/~vmontanheiro" title="Own NPM Libraries">
+  <a style="padding-left:5px;" href="https://www.npmjs.com/~vmontanheiro" title="Own NPM Libraries">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/npm.svg" width="30" alt="Own NPM Libraries" />
   </a>
-  <a href="https://stackoverflow.com/users/4214310/vmontanheiro" title="StackOverflow Profile">
+  <a style="padding-left:5px;" href="https://stackoverflow.com/users/4214310/vmontanheiro" title="StackOverflow Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/stack-overflow.svg" width="30" alt="StackOverflow Profile" />
   </a>
-  <a href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="StackOverflow PT-BR Profile">
+  <a style="padding-left:5px;" href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="StackOverflow PT-BR Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/pt-stack-overflow.svg" width="30" alt="StackOverflow PT-BR Profile" />
   </a>
-  <a href="mailto:vinicius.amontanheiro@gmail.com" title="GMAIL Contact">
+  <a style="padding-left:5px;" href="mailto:vinicius.amontanheiro@gmail.com" title="GMAIL Contact">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/gmail.svg" width="30" alt="GMAIL Contact" />
   </a>
-  <a href="https://www.instagram.com/vini.montanheiro" title="Instagram Profile">
+  <a style="padding-left:5px;" href="https://www.instagram.com/vini.montanheiro" title="Instagram Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/instragram.svg" width="30" alt="Instagram Profile" />
   </a>
-  <a href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="GitHub Profile">
+  <a style="padding-left:5px;" href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="GitHub Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/github.svg" width="30" alt="GitHub Profile" />
   </a>
 </div>
+</br>
 <b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
+
 > Programming Languages
-<div class="skills">
-  <span>
+<div style="display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;">
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png" width="25" alt="Javascript" /> 
-  <i> Javascript</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Javascript</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
-  <i>Java</i>
+  <i style="margin-left:5px;
+  font-size:14px">Java</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
-  <i> C++</i>
+  <i style="margin-left:5px;
+  font-size:14px"> C++</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
-  <i> Dart</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Dart</i>
   </span>
 </div>
 </br>
+
 > Top Skills
 <div class="skills">
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/nodejs.png" width="25" alt="NodeJS" /> 
-  <i> NodeJS</i>
+  <i style="margin-left:5px;
+  font-size:14px"> NodeJS</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/react-native.svg" width="25" alt="React" /> 
-  <i> React Native / ReactJS</i>
+  <i style="margin-left:5px;
+  font-size:14px"> React Native / ReactJS</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/html.png" width="25" alt="HTML5" /> 
-  <i>HTML5</i>
+  <i style="margin-left:5px;
+  font-size:14px">HTML5</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flexbox.png" width="20" alt="Flexbox" /> 
-  <i> Flexbox / SCSS</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Flexbox / SCSS</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flutter.png" width="25" alt="Flutter" /> 
-  <i> Flutter</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Flutter</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/docker.png" width="25" alt="Docker" /> 
-  <i> Docker</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Docker</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/firebase.png" width="25" alt="Firebase" /> 
-  <i> Firebase</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Firebase</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/google-cloud.png" width="25" alt="Dart" /> 
-  <i> Google Cloud</i>
+  <i style="margin-left:5px;
+  font-size:14px"> Google Cloud</i>
   </span>
-  <span>
+  <span style=" display:flex;
+  justify-content: center;
+  align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png" width="25" alt="AWS" /> 
-  <i> AWS </i>
+  <i style="margin-left:5px;
+  font-size:14px"> AWS </i>
   </span>
 </div>
 </br>
 </br>
 <div class="profile">
-  <a href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
+  <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png" width="150" alt="AWS" />
   </a>
-  <i>
+  <i style="margin-left:5px;
+  font-size:14px">
   to with my all skills and experiences
   </i>
 </div>
@@ -136,4 +189,4 @@ a,b{
 </br>
 </br>
 </br>
-<a href="https://icons8.com/icon/15470/caixa-de-selecção-seleccionada-2">Icons by Icons8</a>
+<a style="padding-left:5px;" href="https://icons8.com/icon/15470/caixa-de-selecção-seleccionada-2">Icons by Icons8</a>
