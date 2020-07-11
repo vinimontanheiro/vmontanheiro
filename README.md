@@ -75,12 +75,12 @@ a{
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
-    <i> Javascript</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="Javascript" /> 
+    <i> C++</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Javascript" /> 
     <i> Javascript</i>
   </span>
 
