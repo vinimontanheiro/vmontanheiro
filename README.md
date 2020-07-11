@@ -1,15 +1,8 @@
-<div style="display:flex;
-  width: 100%;
-  justify-content: flex-start;
-  align-items: center;">
-
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
   <b style="padding-left:5px;font-size:22px;">Vinícius Montanheiro</b>&nbsp;✨
 </div>
-<div style="display:flex;
-  width: 100%;
-  justify-content: flex-start;
-  align-items: center;">
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
@@ -37,34 +30,22 @@
 <b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
 
 > Programming Languages
-<div style="display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;">
-  <span style=" display:flex;
-  justify-content: center;
-  align-items: center;">
+<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;">
+  <span style=" display:flex;justify-content: center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png" width="25" alt="Javascript" /> 
   <i style="margin-left:5px;
   font-size:14px"> Javascript</i>
   </span>
-  <span style=" display:flex;
-  justify-content: center;
-  align-items: center;">
+  <span style="display:flex;justify-content: center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
   <i style="margin-left:5px;
   font-size:14px">Java</i>
   </span>
-  <span style=" display:flex;
-  justify-content: center;
-  align-items: center;">
+  <span style=" display:flex;justify-content:center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> C++</i>
+  <i style="margin-left:5px;font-size:14px"> C++</i>
   </span>
-  <span style=" display:flex;
-  justify-content: center;
-  align-items: center;">
+  <span style="display:flex;justify-content: center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
   <i style="margin-left:5px;
   font-size:14px"> Dart</i>
@@ -73,13 +54,7 @@
 </br>
 
 > Top Skills
-<div style="display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;">
-  <span style=" display:flex;
-  justify-content: center;
-  align-items: center;">
+<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;"><span style=" display:flex;justify-content: center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/nodejs.png" width="25" alt="NodeJS" /> 
   <i style="margin-left:5px;
   font-size:14px"> NodeJS</i>
@@ -143,10 +118,7 @@
 </div>
 </br>
 </br>
-<div style="display:flex;
-  width: 100%;
-  justify-content: flex-start;
-  align-items: center;">
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
   <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png" width="150" alt="AWS" />
   </a>
