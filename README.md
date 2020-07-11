@@ -1,12 +1,22 @@
-## Vinícius Montanheiro ✨
+<div class="profile">
+<img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
+  <b class="name">Vinícius Montanheiro</b>&nbsp;✨
+</div>
+
 <style>
+
+.name{
+  font-size:22px
+}
+
 .profile{
   display:flex;
   width: 100%;
   justify-content: flex-start;
   align-items: center;
 }
-a{
+
+a,b{
   padding-left:5px;
 }
 
@@ -30,6 +40,7 @@ a{
 
 </style>
 <div class=".profile">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
     <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
   </a>
@@ -87,7 +98,7 @@ a{
 </div>
 </br>
 
-> Some Skills
+> Top Skills
 
 <div class="skills">
   <span>
@@ -137,4 +148,28 @@ a{
 
 </div>
 
-#### See my all skills and experiences on my [<img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png" width="25" alt="AWS" /> ](https://ie.linkedin.com/in/vmontanheiro) 
+</br>
+</br>
+
+<div class="profile">
+  <a href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png" width="150" alt="AWS" />
+  </a>
+  <i>
+    to with my all skills and experiences
+  </i>
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<a href="https://icons8.com/icon/15470/caixa-de-selecção-seleccionada-2">Icons by Icons8</a>
