@@ -1,0 +1,32 @@
+.name{
+  font-size:22px
+}
+
+.profile{
+  display:flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+a,b{
+  padding-left:5px;
+}
+
+.skills{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.skills > span{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills > span > i{
+  margin-left:5px;
+  font-size:14px
+}

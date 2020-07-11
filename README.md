@@ -1,38 +1,9 @@
-<style>
-.name{
-  font-size:22px
-}
-
-.profile{
-  display:flex;
-  width: 100%;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-a,b{
-  padding-left:5px;
-}
-
-.skills{
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-}
-
-.skills > span{
-  display:flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.skills > span > i{
-  margin-left:5px;
-  font-size:14px
-}
-</style>
-
+ <head>
+ <link rel = "stylesheet"
+   type = "text/css"
+   href = "https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" />
+ </head>
+ 
 <div class="profile">
 <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
   <b class="name">Vinícius Montanheiro</b>&nbsp;✨
