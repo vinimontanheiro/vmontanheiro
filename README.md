@@ -91,23 +91,50 @@ a{
 
 <div class="skills">
   <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/nodejs.png" width="25" alt="NodeJS" /> 
+    <i> NodeJS</i>
+  </span>
+
+  <span>
     <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/react-native.svg" width="25" alt="React" /> 
     <i> React Native / ReactJS</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
-    <i>Java</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/html.png" width="25" alt="HTML5" /> 
+    <i>HTML5</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
-    <i> C++</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flexbox.png" width="20" alt="Flexbox" /> 
+    <i> Flexbox / SCSS</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
-    <i> Dart</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flutter.png" width="25" alt="Flutter" /> 
+    <i> Flutter</i>
+  </span>
+
+   <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/docker.png" width="25" alt="Docker" /> 
+    <i> Docker</i>
+  </span>
+
+   <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/firebase.png" width="25" alt="Firebase" /> 
+    <i> Firebase</i>
+  </span>
+
+   <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/google-cloud.png" width="25" alt="Dart" /> 
+    <i> Google Cloud</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png" width="25" alt="AWS" /> 
+    <i> AWS </i>
   </span>
 
 </div>
+
+#### See my all skills and experiences on my [<img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png" width="25" alt="AWS" /> ](https://ie.linkedin.com/in/vmontanheiro) 
