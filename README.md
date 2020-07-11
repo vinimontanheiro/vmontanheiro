@@ -61,7 +61,7 @@ a{
 
 <b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
 
-> Programming languages
+> Programming Languages
 
 <div class="skills">
   <span>
@@ -70,23 +70,44 @@ a{
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Javascript" /> 
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
     <i>Java</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="Javascript" /> 
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
     <i> C++</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Javascript" /> 
-    <i> Javascript</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
+    <i> Dart</i>
+  </span>
+
+</div>
+</br>
+
+> Some Skills
+
+<div class="skills">
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/react-native.svg" width="25" alt="React" /> 
+    <i> React Native / ReactJS</i>
   </span>
 
   <span>
-    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
-    <i> Javascript</i>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
+    <i>Java</i>
   </span>
-</div>
 
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
+    <i> C++</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
+    <i> Dart</i>
+  </span>
+
+</div>
