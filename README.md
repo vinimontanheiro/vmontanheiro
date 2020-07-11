@@ -1,32 +1,3 @@
-<style>
-.name{
-  font-size:22px
-}
-.profile{
-  display:flex;
-  width: 100%;
-  justify-content: flex-start;
-  align-items: center;
-}
-a,b{
-  padding-left:5px;
-}
-.skills{
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-}
-.skills > span{
-  display:flex;
-  justify-content: center;
-  align-items: center;
-}
-.skills > span > i{
-margin-left:5px;
-  font-size:14px
-}
-</style>
 <div style="display:flex;
   width: 100%;
   justify-content: flex-start;
@@ -102,7 +73,10 @@ margin-left:5px;
 </br>
 
 > Top Skills
-<div class="skills">
+<div style="display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;">
   <span style=" display:flex;
   justify-content: center;
   align-items: center;">
@@ -169,13 +143,16 @@ margin-left:5px;
 </div>
 </br>
 </br>
-<div class="profile">
+<div style="display:flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;">
   <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png" width="150" alt="AWS" />
   </a>
   <i style="margin-left:5px;
   font-size:14px">
-  to with my all skills and experiences
+  with my all skills and experiences
   </i>
 </div>
 </br>
