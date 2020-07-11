@@ -1,6 +1,6 @@
 ## Vinícius Montanheiro ✨
 <style>
-div{
+.profile{
   display:flex;
   width: 100%;
   justify-content: flex-start;
@@ -9,8 +9,27 @@ div{
 a{
   padding-left:5px;
 }
+
+.skills{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.skills > span{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills > span > i{
+  margin-left:5px;
+  font-size:14px
+}
+
 </style>
-<div>
+<div class=".profile">
   <a href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
     <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
   </a>
@@ -42,14 +61,32 @@ a{
 
 <b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
 
-> Skills:
+> Programming languages
 
-- 🔭 <b>I’m currently working on ...</b>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div class="skills">
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png" width="25" alt="Javascript" /> 
+    <i> Javascript</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Javascript" /> 
+    <i>Java</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
+    <i> Javascript</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
+    <i> Javascript</i>
+  </span>
+
+  <span>
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="25" alt="Javascript" /> 
+    <i> Javascript</i>
+  </span>
+</div>
 
