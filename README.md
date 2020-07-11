@@ -1,15 +1,50 @@
-## Vinícius Montanheiro
-<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
-[I'm an inline-style link](https://ie.linkedin.com/in/vmontanheiro)
+## Vinícius Montanheiro ✨
+<style>
+div{
+  display:flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+}
+a{
+  padding-left:5px;
+}
+</style>
+<div>
+  <a href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
+  </a>
 
-### Hi there, my name is Vinícius and I'm Senior Full-Stack Developer 👋
+  <a href="https://www.npmjs.com/~vmontanheiro" title="Own NPM Libraries">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/npm.svg" width="30" alt="Own NPM Libraries" />
+  </a>
 
-<!--
-**vmontanheiro/vmontanheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://stackoverflow.com/users/4214310/vmontanheiro" title="StackOverflow Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/stack-overflow.svg" width="30" alt="StackOverflow Profile" />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="StackOverflow PT-BR Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/pt-stack-overflow.svg" width="30" alt="StackOverflow PT-BR Profile" />
+  </a>
 
-- 🔭 I’m currently working on ...
+  <a href="mailto:vinicius.amontanheiro@gmail.com" title="GMAIL Contact">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/gmail.svg" width="30" alt="GMAIL Contact" />
+  </a>
+
+  <a href="https://www.instagram.com/vini.montanheiro" title="Instagram Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/instragram.svg" width="30" alt="Instagram Profile" />
+  </a>
+
+  <a href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="GitHub Profile">
+    <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/github.svg" width="30" alt="GitHub Profile" />
+  </a>
+</div>
+
+<b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
+
+> Skills:
+
+- 🔭 <b>I’m currently working on ...</b>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,4 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
