@@ -1,10 +1,4 @@
-<div class="profile">
-<img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
-  <b class="name">Vinícius Montanheiro</b>&nbsp;✨
-</div>
-
 <style>
-
 .name{
   font-size:22px
 }
@@ -37,8 +31,14 @@ a,b{
   margin-left:5px;
   font-size:14px
 }
-
 </style>
+
+<div class="profile">
+<img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
+  <b class="name">Vinícius Montanheiro</b>&nbsp;✨
+</div>
+
+
 <div class=".profile">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
