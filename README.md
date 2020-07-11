@@ -1,141 +1,31 @@
-<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
-  <b style="padding-left:5px;font-size:22px;">Vinícius Montanheiro</b>&nbsp;✨
-</div>
-<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg" width="30" alt="LinkedIn Profile" />
-  </a>
-  <a style="padding-left:5px;" href="https://www.npmjs.com/~vmontanheiro" title="Own NPM Libraries">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/npm.svg" width="30" alt="Own NPM Libraries" />
-  </a>
-  <a style="padding-left:5px;" href="https://stackoverflow.com/users/4214310/vmontanheiro" title="StackOverflow Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/stack-overflow.svg" width="30" alt="StackOverflow Profile" />
-  </a>
-  <a style="padding-left:5px;" href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="StackOverflow PT-BR Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/pt-stack-overflow.svg" width="30" alt="StackOverflow PT-BR Profile" />
-  </a>
-  <a style="padding-left:5px;" href="mailto:vinicius.amontanheiro@gmail.com" title="GMAIL Contact">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/gmail.svg" width="30" alt="GMAIL Contact" />
-  </a>
-  <a style="padding-left:5px;" href="https://www.instagram.com/vini.montanheiro" title="Instagram Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/instragram.svg" width="30" alt="Instagram Profile" />
-  </a>
-  <a style="padding-left:5px;" href="https://pt.stackoverflow.com/users/17786/vmontanheiro" title="GitHub Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/github.svg" width="30" alt="GitHub Profile" />
-  </a>
-</div>
-</br>
-<b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">![LinkedIn Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png) **Vinícius Montanheiro** ✨</div>
 
-> Programming Languages
-<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;">
-  <span style=" display:flex;justify-content: center;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png" width="25" alt="Javascript" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Javascript</i>
-  </span>
-  <span style="display:flex;justify-content: center;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png" width="25" alt="Java" /> 
-  <i style="margin-left:5px;
-  font-size:14px">Java</i>
-  </span>
-  <span style=" display:flex;justify-content:center;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png" width="25" alt="C++" /> 
-  <i style="margin-left:5px;font-size:14px"> C++</i>
-  </span>
-  <span style="display:flex;justify-content: center;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png" width="25" alt="Dart" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Dart</i>
-  </span>
-</div>
-</br>
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">        [![LinkedIn Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin.svg) ](https://ie.linkedin.com/in/vmontanheiro "LinkedIn Profile") [ ![Own NPM Libraries](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/npm.svg) ](https://www.npmjs.com/~vmontanheiro "Own NPM Libraries") [ ![StackOverflow Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/stack-overflow.svg) ](https://stackoverflow.com/users/4214310/vmontanheiro "StackOverflow Profile") [ ![StackOverflow PT-BR Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/pt-stack-overflow.svg) ](https://pt.stackoverflow.com/users/17786/vmontanheiro "StackOverflow PT-BR Profile") [ ![GMAIL Contact](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/gmail.svg) ](mailto:vinicius.amontanheiro@gmail.com "GMAIL Contact") [ ![Instagram Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/instragram.svg) ](https://www.instagram.com/vini.montanheiro "Instagram Profile") [![GitHub Profile](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/github.svg)](https://pt.stackoverflow.com/users/17786/vmontanheiro "GitHub Profile") </div>
+
+**Hi there, my name is Vinícius and I'm Senior Full-Stack Developer** 👋 > Programming Languages
+
+<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;"><span style=" display:flex;justify-content: center;align-items: center;">![Javascript](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png) _ Javascript_ </span> <span style="display:flex;justify-content: center;align-items: center;"> ![Java](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/java.png) _Java_ </span> <span style=" display:flex;justify-content:center;align-items: center;"> ![C++](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/cpp.png) _ C++_ </span> <span style="display:flex;justify-content: center;align-items: center;">![Dart](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/dart.png) _ Dart_</span> </div>
 
 > Top Skills
-<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;"><span style=" display:flex;justify-content: center;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/nodejs.png" width="25" alt="NodeJS" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> NodeJS</i>
-  </span>
-  <span style=" display:flex;
+
+<div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;"><span style=" display:flex;justify-content: center;align-items: center;">![NodeJS](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/nodejs.png) _ NodeJS_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/react-native.svg" width="25" alt="React" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> React Native / ReactJS</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![React](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/react-native.svg) _ React Native / ReactJS_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/html.png" width="25" alt="HTML5" /> 
-  <i style="margin-left:5px;
-  font-size:14px">HTML5</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![HTML5](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/html.png) _HTML5_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flexbox.png" width="20" alt="Flexbox" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Flexbox / SCSS</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![Flexbox](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flexbox.png) _ Flexbox / SCSS_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flutter.png" width="25" alt="Flutter" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Flutter</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![Flutter](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/flutter.png) _ Flutter_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/docker.png" width="25" alt="Docker" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Docker</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![Docker](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/docker.png) _ Docker_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/firebase.png" width="25" alt="Firebase" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Firebase</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![Firebase](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/firebase.png) _ Firebase_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/google-cloud.png" width="25" alt="Dart" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> Google Cloud</i>
-  </span>
-  <span style=" display:flex;
+  align-items: center;"> ![Dart](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/google-cloud.png) _ Google Cloud_ </span> <span style=" display:flex;
   justify-content: center;
-  align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png" width="25" alt="AWS" /> 
-  <i style="margin-left:5px;
-  font-size:14px"> AWS </i>
-  </span>
-</div>
-</br>
-</br>
-<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
-  <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro"title="LinkedIn Profile">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png" width="150" alt="AWS" />
-  </a>
-  <i style="margin-left:5px;
-  font-size:14px">
-  with my all skills and experiences
-  </i>
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<a style="padding-left:5px;" href="https://icons8.com/icon/15470/caixa-de-selecção-seleccionada-2">Icons by Icons8</a>
+  align-items: center;">![AWS](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/aws.png) _ AWS _</span> </div>
+
+<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">[![AWS](https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/linkedin-button.png) ](https://ie.linkedin.com/in/vmontanheiro "LinkedIn Profile") _with my all skills and experiences_ </div>
+
+[Icons by Icons8](https://icons8.com/icon/15470/caixa-de-selecção-seleccionada-2)
