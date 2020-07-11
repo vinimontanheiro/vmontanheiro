@@ -1,4 +1,8 @@
-### Hi there 👋
+## Vinícius Montanheiro
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+[I'm an inline-style link](https://ie.linkedin.com/in/vmontanheiro)
+
+### Hi there, my name is Vinícius and I'm Senior Full-Stack Developer 👋
 
 <!--
 **vmontanheiro/vmontanheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
