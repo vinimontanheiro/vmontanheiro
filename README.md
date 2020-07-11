@@ -27,10 +27,11 @@
 </div>
 </br>
 <b> Hi there, my name is Vinícius and I'm Senior Full-Stack Developer</b> 👋
+</br>
 
 > Programming Languages
 <div style="display:flex;flex-direction: column;justify-content: center;align-items: flex-start;">
-<span style=" display:flex;justify-content: center;align-items: center;">
+  <span style=" display:flex;justify-content: center;align-items: center;">
   <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/javascript.png" width="25" alt="Javascript" /> 
   <i style="margin-left:5px;
   font-size:14px"> Javascript</i>
