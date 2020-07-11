@@ -1,7 +1,6 @@
-<div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
-  <img src="https://raw.githubusercontent.com/vmontanheiro/vmontanheiro/master/assets/img/darth-vader.png" width="30" alt="LinkedIn Profile" />
-  <b style="padding-left:5px;font-size:22px;">Vinícius Montanheiro</b>&nbsp;✨
-</div>
+
+##Vinícius Montanheiro ✨
+
 <div style="display:flex;width: 100%;justify-content: flex-start;align-items: center;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a style="padding-left:5px;" href="https://ie.linkedin.com/in/vmontanheiro" title="LinkedIn Profile">
